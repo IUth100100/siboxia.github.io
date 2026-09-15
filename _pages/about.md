@@ -43,7 +43,7 @@ My research focuses on AIOps for microservice systems, supercomputing, and intel
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image' style="transition: transform 0.3s ease; cursor: pointer; position: relative; z-index: 10;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"><div><div class="badge">SC 2025 & APNet 2025</div><a href="https://dl.acm.org/doi/10.1145/3712285.3759794"><img src='images/nodesentry.png' alt="The overall framework of Nodesentry" width="100%" style="width:100%; max-width:100%; height:280px; object-fit:cover;"></a></div></div>
+<div class='paper-box'><div class='paper-box-image' style="transition: transform 0.3s ease; cursor: pointer; position: relative; z-index: 10;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"><div><div class="badge">SC 2025 and APNet 2025</div><a href="https://dl.acm.org/doi/10.1145/3712285.3759794"><img src='images/nodesentry.png' alt="The overall framework of Nodesentry" width="100%" style="width:100%; max-width:100%; height:280px; object-fit:cover;"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Effective Node-Level Anomaly Detection in HPC Systems via Coarse-Grained Clustering and Fine-Grained Model Sharing](https://dl.acm.org/doi/10.1145/3712285.3759794)

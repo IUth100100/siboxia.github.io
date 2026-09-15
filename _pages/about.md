@@ -70,9 +70,20 @@ My research focuses on AIOps for microservice systems, supercomputing, and intel
 
 [Failure Diagnosis in Microservice Systems: A Comprehensive Survey and Analysis](https://dl.acm.org/doi/full/10.1145/3715005)
 
-Shenglin Zhang, **Sibo Xia**, Wenzhao Fan, Binpeng Shi, Xiao Xiong, Zhenyu Zhong, Minghua Ma, Yongqian Sun, Dan Pei
+Shenglin Zhang, **Sibo Xia**, Wenzhao Fan, Binpeng Shi, Xiao Xiong, Zhenyu Zhong, Minghua Ma, Yongqian Sun, and Dan Pei
 
 - Microservice systems, widely adopted for their scalability and flexibility, pose unique failure diagnosis challenges due to independent deployment and dynamic interactions, which can lead to cascading failures that degrade operational efficiency and user experience. This survey reviews 98 papers from 2003 to the present, covering fundamental concepts, system architecture, problem formulation, and qualitative analyses of best practices and future directions, and additionally compiles publicly available datasets, toolkits, and evaluation metrics for practitioners.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image' style="transition: transform 0.3s ease; cursor: pointer; position: relative; z-index: 10;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"><div><div class="badge">CRAD 2024</div><a href="https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.202330054"><img src='images/miner.png' alt="The overall framework of Miner" width="100%" style="width:100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Response Time Anomaly Diagnosis for Search Service](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.202330054)
+
+**Sibo Xia**, Minghua Ma, Pengxiang Jin, Liyue Cui, Shenglin Zhang, Wa Jin, Yongqian Sun, and Dan Pei
+
+- Timely response is crucial to the user experience of network services. To optimize effectively, service providers must identify the rules—combinations of these attributes—that cause high response time. Existing work faces three challenges: large and unevenly distributed search logs, and the need for rules with high generality. We propose Miner, a framework for multi-dimensional extraction of rules, which employs self-paced sampling to address the first two challenges and Corels to generate rules with high generality and recall.
 </div>
 </div>
 

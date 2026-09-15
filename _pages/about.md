@@ -43,32 +43,39 @@ My research focuses on AIOps for microservice systems, supercomputing, and intel
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="transition: transform 0.3s ease; cursor: pointer; position: relative; z-index: 10;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"><div><div class="badge">SC 2025</div><a href="https://dl.acm.org/doi/10.1145/3712285.3759794"><img src='images/nodesentry.png' alt="NodeSentry overview: unsupervised anomaly detection for HPC compute nodes" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Effective Node-Level Anomaly Detection in HPC Systems via Coarse-Grained Clustering and Fine-Grained Model Sharing](https://dl.acm.org/doi/10.1145/3712285.3759794)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Sibo Xia**, Yongqian Sun, Xijie Pan, et al.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- NodeSentry develops an unsupervised node-level anomaly detection framework for large-scale HPC systems, tackles frequent job switching and large-scale operational challenges, with the supporting toolkit open-sourced.
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.07* 🎓 FSE 2026 Industry Track Distinguished Paper Award (The Only Recipient)
+- *2025.12* 🎓 Young Science and Technology Scientists Sponsorship Program by CAST - Doctoral Student Special Plan
+- *2025.10* 🎓 National Scholarship
+- *2025.10* 🎓 Shiing-Shen Chern Academic Newcomer Scholarship of Nankai University
+- *2025.10* 🎓 First prize of the Gongneng Scholarship of Nankai University for Graduate Students
+- *2024.10* 🎓 Third prize of the Gongneng Scholarship of Nankai University for Graduate Students 
+- *2023.10* 🎓 First prize of the Gongneng Scholarship of Nankai University for Graduate Students
+- *2023.09* 🎓 Outstanding Undergraduate Teaching Assistant
+- *2022.10* 🎓 Second prize of the Gongneng Scholarship of Nankai University for Graduate Students
+- *2022.10* 🎓 Scholarship of Nankai University for Postgraduate Recommendation
 
 # 📖 Educations
-- *2024.09 - Now*, Ph.D. (Successive Postgraduate and Doctoral Programs), Software Engineering, Nankai University, China, advisor [Shenglin Zhang](https://nkcs.iops.ai/shenglinzhang/)
-- *2022.09 - 2024.06*, M.S., Software Engineering, Nankai University, China, advisor [Yongqian Sun](https://nkcs.iops.ai/yongqiansun/)
+- *2024.09 - Now*, Ph.D., Software Engineering, Nankai University, China, advisor [Shenglin Zhang](https://nkcs.iops.ai/shenglinzhang/)
+- *2022.09 - 2024.06*, M.S. (Successive Postgraduate and Doctoral Programs), Software Engineering, Nankai University, China, advisor [Yongqian Sun](https://nkcs.iops.ai/yongqiansun/)
 - *2018.09 - 2022.06*, B.E., Software Engineering, Nankai University, China
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2026.07 - Now*, Algorithm Engineer, Jingdong Digits Technology Holding Co., Ltd.
+- *2024.08 - 2026.07*, Technical Research Engineer, Huawei Technologies Co., Ltd.
+- *2023.02 - 2023.11*, Research and Development Engineer, National Supercomputer Center in Tianjin
+
+# 💬 Invited Talks
+- *2025.11*, Effective Node-Level Anomaly Detection in HPC Systems via Coarse-Grained Clustering and Fine-Grained Model Sharing, SC 2025, [Link](https://sc25.conference-program.com/presentation/?id=pap259&sess=sess178)
+- *2025.08*, Delivered a speech at the Exchange Forum (Phase 2) organized by Huawei Technologies Co., Ltd.

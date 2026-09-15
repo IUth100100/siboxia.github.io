@@ -25,21 +25,21 @@ My research focuses on AIOps for microservice systems, supercomputing, and intel
 
 
 # 🔥 News
-- *2026.08*: &nbsp;🎉🎉 Our paper, "Why Transformers? A Comprehensive Overview of Transformers in Artificial Intelligence for IT Operations", is accepted by ACM TOSEM (CCF A).
-- *2026.08*: &nbsp;🎉🎉 Our paper, "FSLog: A Federated Split Learning Framework for Privacy-Protected and Computation-Efficient Syslog Fault Diagnosis in IoT Networks", is accepted by IEEE IOTJ (JCR Q1).
+- *2026.08*: &nbsp;🎉🎉 Our paper "Why Transformers?" is accepted by ACM TOSEM (CCF A).
+- *2026.08*: &nbsp;🎉🎉 Our paper "FSLog" is accepted by IEEE IOTJ (JCR Q1).
 - *2026.07*: &nbsp;🎉🎉 I start my internship as an Algorithm Engineer at Jingdong Digits Technology Holding Co., Ltd.
-- *2026.06*: &nbsp;🎉🎉 Our paper, "Bridging the Delay: Lag-Aware Spatio-Temporal Causal Inference for Microservice Root Cause Analysis", won the Distinguished Paper Award in FSE 2026 Industry Track!
-- *2026.03*: &nbsp;🎉🎉 Our paper, "Bridging the Delay: Lag-Aware Spatio-Temporal Causal Inference for Microservice Root Cause Analysis", is accepted by FSE 2025 (CCF A).
+- *2026.06*: &nbsp;🎉🎉 Our paper "LagRCA" wins the Distinguished Paper Award in FSE 2026 Industry Track!
+- *2026.03*: &nbsp;🎉🎉 Our paper "LagRCA" is accepted by FSE 2025 (CCF A).
 - *2025.07*: &nbsp;🎉🎉 We get two posters accepted by APNet 2025 (CCF C).
-- *2025.06*: &nbsp;🎉🎉 Our paper, "Effective Node-Level Anomaly Detection in HPC Systems via Coarse-Grained Clustering and Fine-Grained Model Sharing", is accepted by SC 2025 (CCF A).
-- *2025.01*: &nbsp;🎉🎉 Our paper, "Failure Diagnosis in Microservice Systems: A Comprehensive Survey and Analysis", is accepted by ACM TOSEM (CCF A).
-- *2024.10*: &nbsp;🎉🎉 Our paper, "No More Data Silos: Unified Microservice Failure Diagnosis with Temporal Knowledge Graph", is accepted by IEEE TSC (CCF A).
+- *2025.06*: &nbsp;🎉🎉 Our paper "NodeSentry" is accepted by SC 2025 (CCF A).
+- *2025.01*: &nbsp;🎉🎉 Our paper "Failure Diagnosis in Microservice Systems: A Comprehensive Survey and Analysis" is accepted by ACM TOSEM (CCF A).
+- *2024.10*: &nbsp;🎉🎉 Our paper "UniDiag" is accepted by IEEE TSC (CCF A).
 - *2024.08*: &nbsp;🎉🎉 I start my internship as a Technical Research Engineer at the Network Technology Laboratory, 2012 Laboratories, Huawei Technologies Co., Ltd.
-- *2024.08*: &nbsp;🎉🎉 Our paper, "ART: A Unified Unsupervised Framework for Incident Management in Microservice Systems", is accepted by ASE 2024 (CCF A).
-- *2024.04*: &nbsp;🎉🎉 Our paper, "Response Time Anomaly Diagnosis for Search Service", is accepted by Journal of Computer Research and Development (CCF T1 in Chinese).
-- *2023.06*: &nbsp;🎉🎉 Our paper, "Robust Failure Diagnosis of Microservice System through Multimodal Data", is accepted by IEEE TSC (CCF A).
+- *2024.08*: &nbsp;🎉🎉 Our paper "ART" is accepted by ASE 2024 (CCF A).
+- *2024.04*: &nbsp;🎉🎉 Our paper "Miner" is accepted by Journal of Computer Research and Development (CCF T1 in Chinese).
+- *2023.06*: &nbsp;🎉🎉 Our paper "DiagFusion" is accepted by IEEE TSC (CCF A).
 - *2023.02*: &nbsp;🎉🎉 I start my internship as a Research and Development Engineer at National Supercomputer Center in Tianjin.
-- *2022.01*: &nbsp;🎉🎉 Our paper, "Robust System Instance Clustering for Large-Scale Web Services", is accepted by WWW 2022 (CCF A).
+- *2022.01*: &nbsp;🎉🎉 Our paper "OmniCluster" is accepted by WWW 2022 (CCF A).
 
 # 📝 Publications 
 

@@ -32,7 +32,7 @@ My research focuses on AIOps for microservice systems, supercomputing, and intel
 - *2026.03*: &nbsp;🎉🎉 Our paper "LagRCA" is accepted by FSE 2025 (CCF A).
 - *2025.07*: &nbsp;🎉🎉 We get two posters accepted by APNet 2025 (CCF C).
 - *2025.06*: &nbsp;🎉🎉 Our paper "NodeSentry" is accepted by SC 2025 (CCF A).
-- *2025.01*: &nbsp;🎉🎉 Our paper "Failure Diagnosis in Microservice Systems: A Comprehensive Survey and Analysis" is accepted by ACM TOSEM (CCF A).
+- *2025.01*: &nbsp;🎉🎉 Our paper "Failure Diagnosis Survey" is accepted by ACM TOSEM (CCF A).
 - *2024.10*: &nbsp;🎉🎉 Our paper "UniDiag" is accepted by IEEE TSC (CCF A).
 - *2024.08*: &nbsp;🎉🎉 I start my internship as a Technical Research Engineer at the Network Technology Laboratory, 2012 Laboratories, Huawei Technologies Co., Ltd.
 - *2024.08*: &nbsp;🎉🎉 Our paper "ART" is accepted by ASE 2024 (CCF A).

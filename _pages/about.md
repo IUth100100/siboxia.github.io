@@ -65,6 +65,17 @@ My research focuses on AIOps for microservice systems, supercomputing, and intel
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image' style="transition: transform 0.3s ease; cursor: pointer; position: relative; z-index: 10;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"><div><div class="badge">TOSEM 2025</div><a href="https://dl.acm.org/doi/full/10.1145/3715005"><img src='images/survey.png' alt="The overall framework of Survey" width="100%" style="width:100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Failure Diagnosis in Microservice Systems: A Comprehensive Survey and Analysis](https://dl.acm.org/doi/full/10.1145/3715005)
+
+Shenglin Zhang, **Sibo Xia**, Wenzhao Fan, Binpeng Shi, Xiao Xiong, Zhenyu Zhong, Minghua Ma, Yongqian Sun, Dan Pei
+
+- Microservice systems, widely adopted for their scalability and flexibility, pose unique failure diagnosis challenges due to independent deployment and dynamic interactions, which can lead to cascading failures that degrade operational efficiency and user experience. This survey reviews 98 papers from 2003 to the present, covering fundamental concepts, system architecture, problem formulation, and qualitative analyses of best practices and future directions, and additionally compiles publicly available datasets, toolkits, and evaluation metrics for practitioners.
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2026.07* 🎓 FSE 2026 Industry Track Distinguished Paper Award (The Only Recipient)
 - *2025.12* 🎓 Young Science and Technology Scientists Sponsorship Program by CAST - Doctoral Student Special Plan

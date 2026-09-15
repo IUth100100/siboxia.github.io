@@ -70,23 +70,15 @@
     @include breakpoint($medium) {
         .paper-box-image{
             justify-content: left;
-            min-width: 0;
-            width: 50%;
-            max-width: 50%;
+            min-width: 200px;
+            max-width: 40%;
             order: 1;
-            img {
-                width: 100%;
-                max-width: none;
-                height: 280px;
-                object-fit: cover;
-            }
         }
         
         .paper-box-text{
             justify-content: left;
             padding-left: 2em;
-            width: 50%;
-            max-width: 50%;
+            max-width: 60%;
             order: 2;
         }
 

@@ -87,6 +87,61 @@ Shenglin Zhang, **Sibo Xia**, Wenzhao Fan, Binpeng Shi, Xiao Xiong, Zhenyu Zhong
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image' style="transition: transform 0.3s ease; cursor: pointer; position: relative; z-index: 10;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"><div><div class="badge">FSE 2026 (Distinguished Paper Award)</div><a href="https://dl.acm.org/doi/abs/10.1145/3803437.3805219"><img src='images/lagrca.png' alt="The overall framework of LagRCA" width="100%" style="width:100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Bridging the Delay: Lag-Aware Spatio-Temporal Causal Inference for Microservice Root Cause Analysis](https://dl.acm.org/doi/abs/10.1145/3803437.3805219)
+
+Shenglin Zhang, Junhua Kuang, Yimeng Zhang, **Sibo Xia**, Jintao Feng, Jingyu Wang, Wenwei Gu, Yongqian Sun, Wei Li, Liping Zhang, and Dan Pei
+
+- Timely root cause analysis (RCA) is essential for stable microservice operations. Yet, most existing methods analyze service interactions synchronously and fail to account for multi-lag failure propagation, where downstream symptoms emerge seconds or minutes after upstream causes—diluting true culprits and over-ranking victims. We present LagRCA, a lag-aware spatio-temporal causal inference framework that models failure propagation with heterogeneous time lags, aligning upstream causes with lagged downstream symptoms. It further disentangles causal dependence from metric co-fluctuation to avoid misreading shared state changes as direct causality, and produces interpretable propagation paths.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image' style="transition: transform 0.3s ease; cursor: pointer; position: relative; z-index: 10;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"><div><div class="badge">TOSEM 2026</div><a href="https://dl.acm.org/doi/abs/10.1145/3840387"><img src='images/transformer.png' alt="The overall framework of Transformer" width="100%" style="width:100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Why Transformers? A Comprehensive Overview of Transformers in Artificial Intelligence for IT Operations](https://dl.acm.org/doi/abs/10.1145/3840387)
+
+Binpeng Shi, Shenglin Zhang, Jingya Wang, Bowen Hao, Minyi Shao, Yu Luo, Wenwei Gu, Yongqian Sun, **Sibo Xia**, Yongxin Zhao, and Dan Pei
+
+- Transformers are driving advances in AIOps. Yet, prior reviews fail to explain why they trigger a major paradigm shift, covering multimodal data, structural connections, capabilities, and evaluation only partially. To bridge this gap, we decompose "Why Transformers" into three questions—the roles Transformers assume in AIOps across 70 representative papers, why they excel (a capability framework of two basic and four advanced capabilities), and how to evaluate them (offline datasets, standardized questions, and real-time simulations)—along with distilled best practices for real-world adoption.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image' style="transition: transform 0.3s ease; cursor: pointer; position: relative; z-index: 10;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"><div><div class="badge">TSC 2024</div><a href="https://ieeexplore.ieee.org/abstract/document/10740010"><img src='images/unidiag.png' alt="The overall framework of UniDiag" width="100%" style="width:100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+[No More Data Silos: Unified Microservice Failure Diagnosis With Temporal Knowledge Graph](https://ieeexplore.ieee.org/abstract/document/10740010)
+
+Shenglin Zhang, Yongxin Zhao, **Sibo Xia**, Shirui Wei, Yongqian Sun, Chenyu Zhao, Shiyu Ma, Junhua Kuang, Bolin Zhu, Lemeng Pan, Yicheng Guo, and Dan Pei
+
+- Microservice systems demand efficient failure diagnosis—detection and triage—yet existing methods relying on single-modal data miss failures and neglect multimodal interconnections, and recent fusion studies lack deep integration. We propose UniDiag, which uses temporal knowledge graphs to fuse multimodal data, combining stream-based anomaly detection with a microservice-oriented graph embedding method for comprehensive, low-cost diagnosis.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image' style="transition: transform 0.3s ease; cursor: pointer; position: relative; z-index: 10;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"><div><div class="badge">ASE 2024</div><a href="https://dl.acm.org/doi/abs/10.1145/3691620.3695495"><img src='images/art.png' alt="The overall framework of ART" width="100%" style="width:100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ART: A Unified Unsupervised Framework for Incident Management in Microservice Systems](https://dl.acm.org/doi/abs/10.1145/3691620.3695495)
+
+Yongqian Sun, Binpeng Shi, Mingyu Mao, Minghua Ma, **Sibo Xia**, Shenglin Zhang, and Dan Pei
+
+- Most incident management techniques for microservice systems tackle anomaly detection, failure triage, and root cause localization in isolation, overlooking shared knowledge and causing inefficiency and delayed responses. We propose ART, an unsupervised framework that unifies the three tasks by extracting shared knowledge—modeling channel, temporal, and call dependencies with Transformer Encoder, GRU, and GraphSAGE—to produce interpretable, semantically explicit failure representations for multitask solutions.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image' style="transition: transform 0.3s ease; cursor: pointer; position: relative; z-index: 10;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"><div><div class="badge">TSC 2023</div><a href="https://ieeexplore.ieee.org/abstract/document/10165686"><img src='images/diagfusion.png' alt="The overall framework of DiagFusion" width="100%" style="width:100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Robust Failure Diagnosis of Microservice System Through Multimodal Data](https://ieeexplore.ieee.org/abstract/document/10165686)
+
+Shenglin Zhang, Pengxiang Jin, Zihan Lin, Yongqian Sun, Bicheng Zhang, **Sibo Xia**, Zhengdan Li, Zhenyu Zhong, Minghua Ma, Wa Jin, Dai Zhang, Zhenyu Zhu, and Dan Pei
+
+- Automatic failure diagnosis is crucial for large microservice systems, yet most existing methods rely solely on single-modal data. Through an empirical study on real-world failure cases, we show that combining these data sources yields more accurate diagnosis, though effectively representing multimodal data and addressing imbalanced failures remain challenging. We propose DiagFusion, which uses embedding techniques and data augmentation to represent multimodal data of service instances, builds a dependency graph from deployment data and traces, and employs a graph neural network to localize the root cause instance and determine the failure type.
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2026.07* 🎓 FSE 2026 Industry Track Distinguished Paper Award (The Only Recipient)
 - *2025.12* 🎓 Young Science and Technology Scientists Sponsorship Program by CAST - Doctoral Student Special Plan

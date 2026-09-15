@@ -43,14 +43,29 @@ My research focuses on AIOps for microservice systems, supercomputing, and intel
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image' style="transition: transform 0.3s ease; cursor: pointer; position: relative; z-index: 10;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"><div><div class="badge">SC 2025</div><a href="https://dl.acm.org/doi/10.1145/3712285.3759794"><img src='images/nodesentry.png' alt="NodeSentry overview: unsupervised anomaly detection for HPC compute nodes" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image' style="transition: transform 0.3s ease; cursor: pointer; position: relative; z-index: 10;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"><div><div class="badge">SC 2025 & APNet 2025</div><a href="https://dl.acm.org/doi/10.1145/3712285.3759794"><img src='images/nodesentry.png' alt="The overall framework of Nodesentry" width="100%" style="width:100%; max-width:100%; height:280px; object-fit:cover;"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Effective Node-Level Anomaly Detection in HPC Systems via Coarse-Grained Clustering and Fine-Grained Model Sharing](https://dl.acm.org/doi/10.1145/3712285.3759794)
 
 **Sibo Xia**, Yongqian Sun, Xijie Pan, et al.
 
-- NodeSentry develops an unsupervised node-level anomaly detection framework for large-scale HPC systems, tackles frequent job switching and large-scale operational challenges, with the supporting toolkit open-sourced.
+[Efficient and Accurate Anomaly Detection in HPC Systems via Coarse-Grained Clustering and Fine-Grained Model Sharing](https://dl.acm.org/doi/10.1145/3735358.3737759)
+
+Shaoyu Hu, **Sibo Xia**, Yongqian Sun, et al.
+
+- High-performance computing (HPC) systems are crucial for scientific advancement and engineering breakthroughs. Unexpected performance degradation or system failures can severely impact these endeavors. This paper introduces \name{}, a novel unsupervised anomaly detection framework tailored for compute nodes of large-scale HPC systems. \name{} leverages a combined approach of coarse-grained clustering and fine-grained model sharing to effectively address the challenges posed by the massive node scales, frequent job transitions, and complex patterns characteristic of modern HPC deployments.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image' style="transition: transform 0.3s ease; cursor: pointer; position: relative; z-index: 10;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"><div><div class="badge">APNet 2025</div><a href="https://dl.acm.org/doi/full/10.1145/3735358.3737815"><img src='images/optprophet.png' alt="The overall framework of OptProphet" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Forewarned is Forearmed: Joint Prediction and Classification of Optical Transceiver Failures in Large-Scale LLM Training Clusters](https://dl.acm.org/doi/full/10.1145/3735358.3737815)
+
+**Sibo Xia**, Long Ma, Junhua Kuang, et al.
+
+- The reliable operation of Large Language Model (LLM) training clusters critically depends on optical transceivers, which face frequent failures with severe operational impacts. We propose OptProphet, a joint failure prediction and classification framework. By modeling temporal dependencies and physical couplings via feature aggregation and automatically addressing imbalanced data distributions, OptProphet significantly enhances prediction sensitivity and classification specificity.
 </div>
 </div>
 

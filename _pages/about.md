@@ -48,7 +48,7 @@ My research focuses on AIOps for microservice systems, supercomputing, and intel
 
 [Effective Node-Level Anomaly Detection in HPC Systems via Coarse-Grained Clustering and Fine-Grained Model Sharing](https://dl.acm.org/doi/10.1145/3712285.3759794)
 
-**Sibo Xia**, Yongqian Sun, Xijie Pan, et al.
+**Sibo Xia**, Yongqian Sun, Xijie Pan, Yuan Yuan, Shenglin Zhang, Shaoyu Hu, Lei Tao, Yuqi Li, and Jinghua Feng
 
 - High-performance computing (HPC) systems are crucial for scientific advancement and engineering breakthroughs. Unexpected performance degradation or system failures can severely impact these endeavors. This paper introduces NodeSentry, a novel unsupervised anomaly detection framework tailored for compute nodes of large-scale HPC systems. NodeSentry leverages a combined approach of coarse-grained clustering and fine-grained model sharing to effectively address the challenges posed by the massive node scales, frequent job transitions, and complex patterns characteristic of modern HPC deployments.
 </div>
@@ -59,7 +59,7 @@ My research focuses on AIOps for microservice systems, supercomputing, and intel
 
 [Forewarned is Forearmed: Joint Prediction and Classification of Optical Transceiver Failures in Large-Scale LLM Training Clusters](https://dl.acm.org/doi/full/10.1145/3735358.3737815)
 
-**Sibo Xia**, Long Ma, Junhua Kuang, et al.
+**Sibo Xia**, Long Ma, Junhua Kuang, Shenglin Zhang, Qitong Xie, and Yongqian Sun
 
 - The reliable operation of Large Language Model (LLM) training clusters critically depends on optical transceivers, which face frequent failures with severe operational impacts. We propose OptProphet, a joint failure prediction and classification framework. By modeling temporal dependencies and physical couplings via feature aggregation and automatically addressing imbalanced data distributions, OptProphet significantly enhances prediction sensitivity and classification specificity.
 </div>

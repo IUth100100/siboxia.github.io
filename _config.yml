@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Sibo Xia"
-description              : " My research interests focus on AIOps for microservice systems, supercomputing, and intelligent computing to achieve automated failure prediction, detection, and diagnosis for large-scale infrastructure."
+description              : 
 repository               : "IUth100100/siboxia.github.io"
 google_scholar_stats_use_cdn : true
 

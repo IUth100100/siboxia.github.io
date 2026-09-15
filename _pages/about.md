@@ -21,7 +21,7 @@ I am a Ph.D. student in the College of Software at Nankai University and a membe
 
 ---
 
-My research focuses on AIOps for microservice systems, supercomputing, and intelligent computing, aiming to automate failure prediction, detection, and diagnosis for large-scale infrastructure. I have published 12 papers in leading international conferences and journals, including ACM/IEEE SC and ACM TOSEM, and I have served as a reviewer for IEEE TR.
+My research focuses on AIOps for microservice systems, supercomputing, and intelligent computing, aiming to automate failure prediction, detection, and diagnosis for large-scale infrastructure. I have published 12 papers in leading international conferences and journals, including IEEE/ACM SC, IEEE/ACM ASE, ACM FSE, ACM WWW, ACM TOSEM, and IEEE TSC, and I have served as a reviewer for IEEE TR.
 
 
 # 🔥 News

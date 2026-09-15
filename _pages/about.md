@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student in the College of Software at Nankai University and a member of the AIOps@NKU group led by [Prof. Shenglin Zhang](https://nkcs.iops.ai/shenglinzhang/) and [Associate Prof. Yongqian Sun](https://nkcs.iops.ai/yongqiansun/). I received my B.E. degree from Nankai University. My Ph.D. research is supervised by [Prof. Shenglin Zhang](https://nkcs.iops.ai/shenglinzhang/), and my M.S. research was supervised by [Associate Prof. Yongqian Sun](https://nkcs.iops.ai/yongqiansun/).
+I am a Ph.D. student in the College of Software at Nankai University and a member of the AIOps@NKU group led by Prof. [Shenglin Zhang](https://nkcs.iops.ai/shenglinzhang/) and Associate Prof. [Yongqian Sun](https://nkcs.iops.ai/yongqiansun/). I received my B.E. degree from Nankai University. My Ph.D. research is supervised by Prof. [Shenglin Zhang](https://nkcs.iops.ai/shenglinzhang/), and my M.S. research was supervised by Associate Prof. [Yongqian Sun](https://nkcs.iops.ai/yongqiansun/).
 
 ---
 
